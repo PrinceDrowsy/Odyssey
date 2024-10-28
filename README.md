@@ -11,6 +11,7 @@ This is my first mod, and understandably a very ambitious one. Please have mercy
 # Features
 
  - A base questline to play, heavily inspired by Homer's epics. (Homer's specifically. Do not speak of the Telegony to me.)
+ - New mobs and structures to explore.
  - Gameplay that still feels like it belongs in Minecraft.
  - Relatively lightweight in performance cost.
  - Compatibility and eventually additional quests for other mods you play with.
