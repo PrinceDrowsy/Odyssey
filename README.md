@@ -11,9 +11,8 @@ This is my first mod, and understandably a very ambitious one. Please have mercy
 # Features
 
  - A modular quest system where you can select base templates or create your own regarding what quests are given, what entities they're given through, and the effects they have on factions (i.e. will villagers or monsters run in fear should you gain a level of notoriety? Will you be rewarded with emeralds or ender pearls? etc.)
-  - Utilizes a datapack-like structure for implementing and sharing custom questlines, intended to be easy to use for those who've never coded in their lives.
+ - Utilizes a datapack-like structure for implementing and sharing custom questlines, intended to be easy to use for those who've never coded in their lives.
  - An optional base questline to play, heavily inspired by Homer's epics. (Homer's specifically. Do not speak of the Telegony to me.)
- - New mobs and structures to explore.
  - Gameplay that still feels like it belongs in Minecraft.
  - Relatively lightweight in performance cost.
- - Compatibility and eventually additional quests for other mods you play with.
+ - Eventual compatibility with as many different modded systems for quest implementation as possible (Such as Unicopia's spell systems, Origin's playable races, survival mods that implement things like temperature and thirst, etc.)
