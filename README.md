@@ -15,4 +15,4 @@ This is my first mod, and understandably a very ambitious one. Please have mercy
  - An optional base questline to play, heavily inspired by Homer's epics. (Homer's specifically. Do not speak of the Telegony to me.)
  - Gameplay that still feels like it belongs in Minecraft.
  - Relatively lightweight in performance cost.
- - Eventual quest implementation compatibility with as many additional modded systems as possible (Such as Unicopia's spell systems, Origin's playable races, survival mods that implement things like temperature and thirst, etc.)
+ - Eventual quest implementation compatibility with as many additional modded systems as possible (Such as Unicopia or Bewitchment's magic systems, Origin's playable races, survival mods that implement things like temperature and thirst, etc.)
